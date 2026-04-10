@@ -1,33 +1,81 @@
-Low Level Design (LLD)
-This repository contains my structured notes for Low Level Design (LLD) preparation.
-The goal of this repository is to build a strong foundation in designing scalable, maintainable, and clean software systems.
+#  Low Level Design (LLD) Notes
 
-"This is one of the things that got me into my dream company."
+This repository contains my **structured notes for Low Level Design (LLD)** preparation.
 
-Low Level Design is one of the most important skills for software engineers because it focuses on how individual components, classes, and objects interact inside a system.
+The main goal is to build a strong foundation in designing **scalable, maintainable, and clean software systems**.
 
-While System Design (HLD) focuses on the architecture of distributed systems, LLD focuses on writing clean, extensible, and maintainable code.
+>  "This is one of the things that helped me move closer to my dream company."
 
-Why LLD is Important
-Helps design clean and maintainable code
-Improves problem decomposition skills
-Teaches object-oriented design
-Helps understand design patterns
-Essential for backend engineering roles
-Frequently asked in software engineering interviews
-"If DSA is the brain, LLD is the skeleton of your application."
+---
 
-Goals of This Repository
-Build interview-ready LLD knowledge
-Understand real-world design decisions
-Practice designing scalable object-oriented systems
-Maintain clean and structured notes for revision
-UML Diagrams
-LLD UML Diagrams
-Design Patterns & Project Diagrams
-"Knowledge is the only thing that always grows by sharing."
+##  What is Low Level Design?
 
-If these notes help you in any way, feel free to learn, use, and share them with others.
+Low Level Design (LLD) focuses on how **individual components, classes, and objects interact** within a system.
 
-Author
-Maintained by Shatabdi Mohanty"# System-Design-LLD" 
+- **LLD** → Internal design (classes, objects, logic)
+-  **HLD (System Design)** → Overall architecture (services, databases, scaling)
+
+>  "If DSA is the brain, LLD is the skeleton of your application."
+
+---
+
+##  Why LLD is Important
+
+- Helps write **clean and maintainable code**
+- Improves **problem breakdown (decomposition)**
+- Strengthens **Object-Oriented Design (OOD)**
+- Builds understanding of **Design Patterns**
+- Essential for **backend development roles**
+- Frequently asked in **SDE interviews**
+
+---
+
+##  Goals of This Repository
+
+-  Build **interview-ready LLD knowledge**
+-  Understand **real-world design decisions**
+-  Practice designing **scalable OOP systems**
+-  Maintain **clear and structured notes** for revision
+
+---
+
+##  Topics Covered
+
+###  UML Diagrams
+- Class Diagrams
+- Sequence Diagrams
+- Use Case Diagrams
+
+###  LLD Concepts
+- Object-Oriented Design Principles
+- SOLID Principles
+- Clean Code Practices
+
+###  Design Patterns
+- Creational Patterns
+- Structural Patterns
+- Behavioral Patterns
+
+### Projects & Case Studies
+- Real-world system design examples
+- Practice problems with solutions
+
+---
+
+##  Philosophy
+
+>  "Knowledge grows when shared."
+
+If these notes help you, feel free to:
+-  Star the repository
+-  Learn from it
+-  Share it with others
+
+---
+
+##  Author
+
+**Shatabdi Mohanty**  
+Maintained with consistency and continuous learning 
+
+---
